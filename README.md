@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Joyce Nunes Galvão Cavalcante Ferro
+# Joyce Nunes Ferro
 
 ### Engenheira de Produção | Pesquisa Operacional | Analytics | Apoio à Decisão
 
