@@ -9,7 +9,7 @@ Atualmente, atuo no **Projeto UNS, vinculado ao SENAI IST MPP**, desenvolvendo a
 
 ---
 
-## 🧠 Áreas de interesse
+##  Áreas de interesse
 
 * ⚙️ Pesquisa Operacional
 * 📈 Modelagem e previsão de dados
