@@ -2,9 +2,9 @@
 
 ### Engenheira de Produção | Pesquisa Operacional | Analytics | Apoio à Decisão
 
-Sou engenheira de produção, mestre e doutoranda em *Engenharia de Produção pela Universidade Federal de Pernambuco (UFPE)*.
+Sou engenheira de produção, mestre e doutoranda em **Engenharia de Produção pela Universidade Federal de Pernambuco (UFPE)**.
 
-Atualmente, atuo no *Projeto UNS, vinculado ao SENAI IST MPP*, desenvolvendo atividades de análise de dados aplicadas ao contexto industrial.
+Atualmente, atuo no **Projeto UNS, vinculado ao SENAI IST MPP**, desenvolvendo atividades de análise de dados aplicadas ao contexto industrial.
 
 
 ---
